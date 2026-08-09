@@ -16,7 +16,7 @@ The user chats with the AI normally. If the user's message contains mistakes, th
 
 **User:**
 
-> i goed to markey yesturday
+> i goed to markeb yesturday
 
 **AI:**
 
